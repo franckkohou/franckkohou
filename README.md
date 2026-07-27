@@ -7,14 +7,7 @@
 
   <a href="https://github.com/franckkohou">
     <img width="1254" height="1254" alt="ChatGPT Image 27 juil  2026, 15_57_47" src="https://github.com/user-attachments/assets/fe5daf9e-cd72-4cf3-a1cb-2348d6e32ef0" />
-
-  </a>
-</p>
-
-<p align="center">
-  <img width="250" alt="Jean Pierre ABBE" src="https://github.com/user-attachments/assets/e447af7d-0af6-48ad-9cf6-5f223005f609">
-</p>
-
+    
 <h3 align="center">
   Data Analyst | Data Scientist
 </h3>
