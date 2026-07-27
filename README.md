@@ -1,12 +1,13 @@
 <h1 align="center">
-  Hi there 👋, I'm Jean Pierre ABBE
+  Hi there 👋, I'm Franck KOHOU BI
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhpAb&color=dc143c&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=franckkohou&color=dc143c&style=for-the-badge" alt="Profile Views">
 
   <a href="https://github.com/franckkohou">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img width="1254" height="1254" alt="ChatGPT Image 27 juil  2026, 15_57_47" src="https://github.com/user-attachments/assets/fe5daf9e-cd72-4cf3-a1cb-2348d6e32ef0" />
+
   </a>
 </p>
 
