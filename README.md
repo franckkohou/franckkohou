@@ -8,7 +8,7 @@
 
 Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur IoT & IA
 
-<a href="mailto:franckkohoubiirie@gmail.com">
+<a href="mailto:franckkohoubi2001@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26" height="26" alt="Email" />
 </a>
 &nbsp;&nbsp;
@@ -151,6 +151,16 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 
 <br>
 
+### CEO & Fondateur
+**Propilote | Abidjan** · *Présent*
+- Direction de la structure : conception de solutions embarquées, IoT et IA, de la spécification à la mise en production.
+- Formations et accompagnement technique auprès d'entreprises et d'institutions.
+
+### Formateur — Bootcamp GenAI & Machine Learning
+**Developers Institute & Sira Labs | Campus Côte d'Ivoire** · *2026*
+- Animation du bootcamp COT_GenAI & Machine Learning : Python, ML, Deep Learning, LLMs, RAG, agents IA.
+- Encadrement des apprenants sur les projets de fin de parcours.
+
 ### Consultant — Forprode IA 4.0
 **GIZ** · *Mai 2026 – Août 2026*
 - Mission de consultance sur le programme Forprode, volet Intelligence Artificielle & Industrie 4.0.
@@ -206,6 +216,15 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 Français (natif) · Anglais (professionnel)
 
 </details>
+
+---
+
+## <img src="https://api.iconify.design/bi/envelope.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> Contact
+
+- <img src="https://api.iconify.design/bi/envelope-at.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **Email** — [franckkohoubi2001@gmail.com](mailto:franckkohoubi2001@gmail.com)
+- <img src="https://api.iconify.design/bi/linkedin.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **LinkedIn** — [Kohou Bi Irié Franck Aymar Romaric](https://www.linkedin.com/in/kohou-bi-irie-franck-aymar-romaric-7b5a492a1/)
+- <img src="https://api.iconify.design/bi/github.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **GitHub** — [@franckkohou](https://github.com/franckkohou)
+- <img src="https://api.iconify.design/bi/geo-alt.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **Localisation** — Bingerville, Abidjan, Côte d'Ivoire
 
 ---
 
