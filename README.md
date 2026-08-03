@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=franckkohou&color=dc143c&style=for-the-badge" alt="Profile Views">
 
   <a href="https://github.com/franckkohou">
-    <img width="1254" height="1254" alt="ChatGPT Image 27 juil  2026, 15_57_47" src="https://github.com/user-attachments/assets/fe5daf9e-cd72-4cf3-a1cb-2348d6e32ef0" />
+    <img width="1080" height="1080" alt="ChatGPT Image 27 juil  2026, 15_57_47" src="https://github.com/user-attachments/assets/fe5daf9e-cd72-4cf3-a1cb-2348d6e32ef0" />
     
 <h3 align="center">
   Data Analyst | Data Scientist
