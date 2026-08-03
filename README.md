@@ -1,212 +1,141 @@
-<h1 align="center">
-  Hi there 👋, I'm Franck KOHOU BI
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=franckkohou&color=dc143c&style=for-the-badge" alt="Profile Views">
+<img src="https://github.com/user-attachments/assets/fe5daf9e-cd72-4cf3-a1cb-2348d6e32ef0" width="150" height="150" alt="Franck Kohou Bi" />
 
-  <a href="https://github.com/franckkohou">
-    <img width="1080" height="1080" alt="ChatGPT Image 27 juil  2026, 15_57_47" src="https://github.com/user-attachments/assets/fe5daf9e-cd72-4cf3-a1cb-2348d6e32ef0" />
-    
-<h3 align="center">
-  Data Analyst | Data Scientist
-</h3>
-<p align="center">
-  📊 Data Analytics • 🤖 Machine Learning • 📈 Business Intelligence • 🐍 Python • 🗄️ SQL • 📊 Power BI
-</p>
-<!-- Resume & Experience -->
+# Franck KOHOU BI
+
+**Data Analyst · Data Scientist**
+
+Analytics · Machine Learning · Business Intelligence
+
+<a href="mailto:franckkohoubi2001@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26" height="26" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kohou-bi-irie-franck-aymar-romaric-7b5a492a1/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" height="26" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=franckkohou&color=dc143c&style=flat-square&label=vues" alt="Vues du profil" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="42" height="42" alt="R" /><br>R
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server" /><br>SQL Server
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" /><br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" /><br>Pandas
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" /><br>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn" /><br>Scikit-learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow" /><br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" /><br>Jupyter
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="42" height="42" alt="Power BI" /><br>Power BI
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/logos/microsoft-excel.svg" width="42" height="42" alt="Excel" /><br>Excel
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" /><br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" /><br>Docker
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🚀 Projects
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **🏍️ MotoTrack — Fleet Analytics** | Suivi et optimisation de flotte : KPI de consommation, efficacité opérationnelle, modèles prédictifs. | Python · SQL · Power BI |
+| **🏥 Healthcare Satisfaction Analysis** | Analyse exploratoire de la satisfaction patient, tests d'hypothèses et modélisation. | Python · R |
+| **🌍 Climate Risk Analytics in Africa** | Approche machine learning des risques climatiques et de leur impact économique. | Python · Scikit-learn |
+
+---
+
 <details>
-<summary>
-<h2>
-📄 Resume & Experience
-</h2>
-</summary>
-
-<details>
-<summary>
-<h3>🎓 Academic Background</h3>
-</summary>
-
-- 🎓 **Master of Engineering (MEng) - Data Science**  
-  INSSEDS Data University
-
-- 🎓 **Licence Professionnelle - Statistique, Économétrie & Technologies BI**  
-  Institut Supérieur de Statistique, d'Économétrie et de Data Science (INSSEDS)
-
-</details>
-
-
-<details>
-<summary>
-<h3>💼 Professional Experience</h3>
-</summary>
-
-### 📊 Data Analyst — Gestion de Flotte & Économétrie
-**MotoTrack**
-
-- Analyse de données opérationnelles et développement d'indicateurs de performance (KPI).
-- Modélisation statistique pour l'analyse de consommation et l'optimisation de flotte.
-- Développement de pipelines de traitement de données avec Python, SQL et R.
-- Analyse de séries temporelles et modèles prédictifs.
+<summary><b>📄 Resume & Experience</b></summary>
 
 <br>
 
-### 📈 Data Analyst / BI Projects
+### 🎓 Formation
+
+- **Master of Engineering (MEng) — Data Science** — INSSEDS Data University
+- **Licence Professionnelle — Statistique, Économétrie & Technologies BI** — Institut Supérieur de Statistique, d'Économétrie et de Data Science (INSSEDS)
+
+### 💼 Expérience
+
+**Data Analyst — Gestion de flotte & économétrie** · *MotoTrack*
+- Analyse de données opérationnelles et construction d'indicateurs de performance (KPI).
+- Modélisation statistique : consommation, optimisation de flotte, séries temporelles.
+- Développement de pipelines de traitement de données (Python, SQL, R).
+
+**Data Analyst / BI Projects**
 - Conception de modèles dimensionnels (Data Warehouse).
-- Création de dashboards décisionnels avec Power BI.
-- Analyse statistique exploratoire et modélisation prédictive.
+- Dashboards décisionnels sous Power BI.
+- Analyse exploratoire et modélisation prédictive.
 
 </details>
 
-</details>
-
-
-<!-- Tech Stack -->
 <details>
-<summary>
-<h2>
-🛠️ Tech Stack
-</h2>
-</summary>
+<summary><b>📊 GitHub Stats</b></summary>
 
-
-### Programming & Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-
-
-### Data Visualization & BI
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-
-### Machine Learning & AI
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-### Database & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
-
-
-<!-- Projects -->
-<details>
-<summary>
-<h2>
-🚀 Projects
-</h2>
-</summary>
-
-
-### 🏍️ MotoTrack — Fleet Analytics Platform
-
-Technologies:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-
-
-- Data analytics solution for fleet monitoring and optimization.
-- KPI tracking: fuel consumption, performance indicators and operational efficiency.
-- Statistical modeling and predictive analytics.
-
-
----
-
-### 🏥 Healthcare Satisfaction Analysis
-
-Technologies:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
-- Exploratory data analysis of patient satisfaction.
-- Statistical hypothesis testing.
-- Correlation analysis and predictive modeling.
-
-
----
-
-### 🌍 Climate Risk Analytics in Africa
-
-Technologies:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-
-
-- Machine learning approach to analyze climate risks.
-- Data-driven insights for economic impact assessment.
-
-</details>
-
-
-
-<!-- GitHub Stats -->
-<details>
-<summary>
-<h2>
-📊 GitHub Stats
-</h2>
-</summary>
+<br>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhpAb&theme=tokyonight)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=franckkohou&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckkohou&layout=compact&theme=tokyonight&hide_border=true" alt="Top langages" />
 
-<br>
+<br><br>
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=JhpAb&theme=tokyo-night)
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=franckkohou&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
 
 </details>
 
+---
 
-
-<!-- Contact -->
-<details>
-<summary>
-<h2>
-📫 Contact Me
-</h2>
-</summary>
-
-<p>
-
-<a href="mailto:franckkohoubi2001@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/kohou-bi-irie-franck-aymar-romaric-7b5a492a1/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/franckkohou">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
-</details>
+<div align="center">
+  <i>« Transformer la donnée en décision. »</i>
+</div>
