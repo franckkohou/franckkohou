@@ -4,9 +4,9 @@
 
 # Franck KOHOU BI
 
-**Data Analyst · Data Scientist**
+**CEO — Propilote**
 
-Analytics · Machine Learning · Business Intelligence
+Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur IoT & IA
 
 <a href="mailto:franckkohoubi2001@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26" height="26" alt="Email" />
