@@ -25,36 +25,21 @@ Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur Io
 ## 🧭 À propos
 
 De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique, embarqué et intelligence artificielle.
-Formateur en Industrie 4.0, IoT et IA à l'IPIF, avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
+Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital Academy), avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
 Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🤖 Intelligence Artificielle & Data
+
 <div align="center">
 <table>
   <tr>
     <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" /><br>C
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" /><br>C++
-    </td>
-    <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br>Python
     </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" /><br>Bash
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino" /><br>Arduino
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi" /><br>Raspberry&nbsp;Pi
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" /><br>NumPy
     </td>
@@ -68,7 +53,45 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" /><br>Jupyter
     </td>
     <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" height="42" alt="Vision" /><br>Vision
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV" /><br>Vision
+    </td>
+  </tr>
+</table>
+</div>
+
+| # | Domaine | Compétences |
+| :---: | :--- | :--- |
+| **01** | **Python & Fondamentaux** | Python & programmation orientée objet · Environnements ML (Jupyter, Google Colab) · Introduction à la Data Science |
+| **02** | **Data & Statistiques** | NumPy, Pandas, SciPy · Visualisation de données · Statistiques appliquées au ML |
+| **03** | **Machine Learning** | Apprentissage supervisé (classification, régression) · Feature engineering & hyperparamètres · Évaluation et validation de modèles |
+| **04** | **Deep Learning** | Réseaux de neurones profonds · CNN (vision par ordinateur) · RNN & séquences temporelles |
+| **05** | **LLMs & Transformers** | Architecture Transformer & BERT · Fine-tuning & PEFT · LLMs open-source |
+| **06** | **Prompt Engineering & RAG** | Fondamentaux du prompt engineering · Bases de données vectorielles · Chatbots RAG end-to-end |
+| **07** | **Agents IA & MCP** | Agentic AI & frameworks · Model Context Protocol (MCP) · Solutions IA autonomes avancées |
+| **08** | **Soft Skills & Leadership** | Communication professionnelle & pitch · Gestion de projet agile · Travail en équipe & leadership |
+
+<br>
+<br>
+
+### ⚡ Électronique & Systèmes embarqués
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" /><br>C
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" /><br>C++
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino" /><br>Arduino
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi" /><br>Raspberry&nbsp;Pi
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" /><br>Bash
     </td>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br>Git
@@ -97,15 +120,18 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 </table>
 </div>
 
-| Domaine | Compétences |
-| :--- | :--- |
-| **Programmation embarquée** | C/C++, Python embarqué, Bash, Arduino IDE, PlatformIO, STM32, VS Code |
-| **IoT & protocoles** | MQTT, LoRa, LPWAN, RFID, Wi-Fi, TCP/IP, ESP8266, ESP32, Raspberry Pi, STM32 |
-| **IA & Machine Learning** | Deep Learning (CNN, RNN), Scikit-learn, LLMs, RAG, Agents IA, MCP, Prompt Engineering |
-| **Automatisme & supervision** | GRAFCET, PLC, régulation automatique, SCADA, jumeau numérique, vision industrielle |
-| **Électronique & circuits** | Circuits analogiques & numériques, PCB (EasyEDA), microcontrôleurs, capteurs & actionneurs, bus de communication |
-| **Web & Data** | Next.js, Node.js, MongoDB, MySQL, REST API, JSON, Bootstrap |
-| **CAO & fabrication** | SolidWorks, Fusion 360, CST CAD, CAO/FAO, impression 3D |
+| # | Domaine | Compétences |
+| :---: | :--- | :--- |
+| **01** | **Fondamentaux & Langages** | C, C++, Python embarqué, Bash · Algorithmes & structures de données · Machines à états & gestion de la mémoire |
+| **02** | **Électronique & Conception de circuits** | Circuits analogiques & numériques · Microcontrôleurs & microprocesseurs · Conception de PCB (EasyEDA), CAO/FAO, impression 3D |
+| **03** | **Microcontrôleurs & Périphériques** | GPIO, ADC/DAC, timers & PWM · Interruptions, DMA, watchdog · Gestion d'horloge, d'énergie et bootloader |
+| **04** | **Interfaces & Protocoles** | UART, I2C, SPI · Ethernet, TCP/IP, UDP, USB · Modbus, MQTT, CAN |
+| **05** | **Connectivité sans fil & IoT** | Wi-Fi, Bluetooth, LoRa & LPWAN, RFID · GSM/LTE, NB-IoT · ESP8266, ESP32, STM32, Raspberry Pi |
+| **06** | **Systèmes d'exploitation & RTOS** | Fondamentaux des systèmes d'exploitation · Linux embarqué & pilotes de périphériques · FreeRTOS, ordonnancement temps réel |
+| **07** | **Outils, Build & Débogage** | Arduino IDE, PlatformIO, VS Code, Make · Multimètre, oscilloscope, analyseur logique, JTAG/SWD · Git, GitHub/GitLab, UML, gestion de projet |
+| **08** | **Automatisme, Supervision & Edge AI** | GRAFCET, PLC, régulation automatique · SCADA, jumeau numérique, vision industrielle · Capteurs & actionneurs, Edge AI |
+
+**Développement Web & Data** — Next.js · Node.js · MongoDB · MySQL · REST API · JSON · Bootstrap
 
 ---
 
@@ -125,8 +151,12 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 
 <br>
 
+### Consultant — Forprode IA 4.0
+**GIZ** · *Mai 2026 – Août 2026*
+- Mission de consultance sur le programme Forprode, volet Intelligence Artificielle & Industrie 4.0.
+
 ### Consultant — Formateur Systèmes Embarqués, IoT & IA
-**IPIF | Abidjan** · *Novembre 2024 – Présent*
+**IPIF | Abidjan** · *Novembre 2024 – Septembre 2025*
 - Conception et animation de modules en systèmes embarqués, IoT, IA et Industrie 4.0.
 - Encadrement d'étudiants sur des projets techniques (ESP32, MQTT, Machine Learning, automatisme).
 - Développement de simulations pédagogiques interactives (SCADA, GRAFCET, MQTT, jumeaux numériques).
