@@ -156,7 +156,7 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 - Mission de consultance sur le programme Forprode, volet Intelligence Artificielle & Industrie 4.0.
 
 ### Consultant — Formateur Systèmes Embarqués, IoT & IA
-**IPIF | Abidjan** · *Novembre 2024 – Septembre 2025*
+**IPIF | Abidjan** · *Novembre 2024 – Avril 2026*
 - Conception et animation de modules en systèmes embarqués, IoT, IA et Industrie 4.0.
 - Encadrement d'étudiants sur des projets techniques (ESP32, MQTT, Machine Learning, automatisme).
 - Développement de simulations pédagogiques interactives (SCADA, GRAFCET, MQTT, jumeaux numériques).
