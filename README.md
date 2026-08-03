@@ -8,15 +8,13 @@
 
 Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur IoT & IA
 
-<a href="mailto:franckkohoubi2001@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26" height="26" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kohou-bi-irie-franck-aymar-romaric-7b5a492a1/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" height="26" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=franckkohou&color=dc143c&style=flat-square&label=vues" alt="Vues du profil" />
+<img src="https://api.iconify.design/logos/google-gmail.svg" width="20" height="20" align="top" alt="Gmail" /> [franckkohoubi2001@gmail.com](mailto:franckkohoubi2001@gmail.com)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" align="top" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/kohou-bi-irie-franck-aymar-romaric-7b5a492a1/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff" /><img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="20" height="20" align="top" alt="GitHub" /></picture> [@franckkohou](https://github.com/franckkohou)
+
+<img src="https://api.iconify.design/bi/geo-alt.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Bingerville, Abidjan, Côte d'Ivoire
 
 </div>
 
@@ -26,7 +24,7 @@ Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur Io
 
 De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique, embarqué et intelligence artificielle.
 Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital Academy), avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
-<img src="https://api.iconify.design/bi/geo-alt.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Basé à Bingerville, Abidjan · Licence I4SEI en cours à l'ESATIC.
+<img src="https://api.iconify.design/bi/mortarboard.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Licence I4SEI en cours à l'ESATIC.
 
 ---
 
@@ -216,15 +214,6 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 Français (natif) · Anglais (professionnel)
 
 </details>
-
----
-
-## <img src="https://api.iconify.design/bi/envelope.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> Contact
-
-- <img src="https://api.iconify.design/bi/envelope-at.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **Email** — [franckkohoubi2001@gmail.com](mailto:franckkohoubi2001@gmail.com)
-- <img src="https://api.iconify.design/bi/linkedin.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **LinkedIn** — [Kohou Bi Irié Franck Aymar Romaric](https://www.linkedin.com/in/kohou-bi-irie-franck-aymar-romaric-7b5a492a1/)
-- <img src="https://api.iconify.design/bi/github.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **GitHub** — [@franckkohou](https://github.com/franckkohou)
-- <img src="https://api.iconify.design/bi/geo-alt.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> **Localisation** — Bingerville, Abidjan, Côte d'Ivoire
 
 ---
 
