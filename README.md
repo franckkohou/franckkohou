@@ -22,7 +22,7 @@ Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur Io
 
 ## <img src="https://api.iconify.design/bi/compass.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> À propos
 
-De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique embarqué , IoT et intelligence artificielle.
+De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique embarquée, IoT et intelligence artificielle.
 Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital Academy), avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
 
 ---
@@ -88,6 +88,9 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi" /><br>Raspberry&nbsp;Pi
     </td>
     <td align="center" width="88">
+      <img src="https://api.iconify.design/simple-icons/kicad.svg?color=%23314CB0" width="42" height="42" alt="KiCad" /><br>KiCad
+    </td>
+    <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" /><br>Bash
     </td>
     <td align="center" width="88">
@@ -95,6 +98,9 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
     </td>
   </tr>
   <tr>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" /><br>Docker
+    </td>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" /><br>HTML5
     </td>
@@ -120,12 +126,12 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 | # | Domaine | Compétences |
 | :---: | :--- | :--- |
 | **01** | **Fondamentaux & Langages** | C, C++, Python embarqué, Bash · Algorithmes & structures de données · Machines à états & gestion de la mémoire |
-| **02** | **Électronique & Conception de circuits** | Circuits analogiques & numériques · Microcontrôleurs & microprocesseurs · Conception de PCB (EasyEDA), CAO/FAO, impression 3D |
+| **02** | **Électronique & Conception de circuits** | Circuits analogiques & numériques · Microcontrôleurs & microprocesseurs · Conception de PCB (KiCad, EasyEDA), CAO/FAO, impression 3D |
 | **03** | **Microcontrôleurs & Périphériques** | GPIO, ADC/DAC, timers & PWM · Interruptions, DMA, watchdog · Gestion d'horloge, d'énergie et bootloader |
 | **04** | **Interfaces & Protocoles** | UART, I2C, SPI · Ethernet, TCP/IP, UDP, USB · Modbus, MQTT, CAN |
 | **05** | **Connectivité sans fil & IoT** | Wi-Fi, Bluetooth, LoRa & LPWAN, RFID · GSM/LTE, NB-IoT · ESP8266, ESP32, STM32, Raspberry Pi |
 | **06** | **Systèmes d'exploitation & RTOS** | Fondamentaux des systèmes d'exploitation · Linux embarqué & pilotes de périphériques · FreeRTOS, ordonnancement temps réel |
-| **07** | **Outils, Build & Débogage** | Arduino IDE, PlatformIO, VS Code, Make · Multimètre, oscilloscope, analyseur logique, JTAG/SWD · Git, GitHub/GitLab, UML, gestion de projet |
+| **07** | **Outils, Build & Débogage** | Arduino IDE, PlatformIO, VS Code, Make · Multimètre, oscilloscope, analyseur logique, JTAG/SWD · Git, GitHub/GitLab, Docker, UML, gestion de projet |
 | **08** | **Automatisme, Supervision & Edge AI** | GRAFCET, PLC, régulation automatique · SCADA, jumeau numérique, vision industrielle · Capteurs & actionneurs, Edge AI |
 
 **Développement Web & Data** — Next.js · Node.js · MongoDB · MySQL · REST API · JSON · Bootstrap
