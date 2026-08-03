@@ -22,17 +22,17 @@ Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur Io
 
 ---
 
-## 🧭 À propos
+## <img src="https://api.iconify.design/bi/compass.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> À propos
 
 De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique, embarqué et intelligence artificielle.
 Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital Academy), avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
-Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
+<img src="https://api.iconify.design/bi/geo-alt.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Basé à Bingerville, Abidjan · Licence I4SEI en cours à l'ESATIC.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/bi/tools.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> Tech Stack
 
-### 🤖 Intelligence Artificielle & Data
+### <img src="https://api.iconify.design/bi/robot.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> Intelligence Artificielle & Data
 
 <div align="center">
 <table>
@@ -73,7 +73,7 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 <br>
 <br>
 
-### ⚡ Électronique & Systèmes embarqués
+### <img src="https://api.iconify.design/bi/cpu.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> Électronique & Systèmes embarqués
 
 <div align="center">
 <table>
@@ -135,19 +135,19 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 
 ---
 
-## 🚀 Projets
+## <img src="https://api.iconify.design/bi/rocket-takeoff.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> Projets
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **🗑️ Smart City — Gestion des ordures** | Système IoT de suivi des bacs à ordures pour une ville intelligente : remontée de données vers un serveur local, validation terrain. | ESP8266 · LoRa · MQTT · 4G · PCB EasyEDA |
-| **⚖️ Pesage routier — Acquisition de données** | Chaîne complète de récupération et de traitement de données de pesage : cahier des charges, conception matérielle, serveur local. | C · TCP/IP · Ethernet · Raspberry Pi · PCB |
-| **🦠 Tunnel de désinfection automatique** | Dispositif de désinfection des passagers (COVID-19) : architecture, capteurs, conception matérielle et maintenance sur site. | C/C++ · Arduino Nano · Fusion 360 |
-| **🎓 Simulations pédagogiques Industrie 4.0** | Simulateurs interactifs pour la formation : supervision, séquencement et jumeaux numériques. | SCADA · GRAFCET · MQTT · Python |
+| **<img src="https://api.iconify.design/bi/trash.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Smart City — Gestion des ordures** | Système IoT de suivi des bacs à ordures pour une ville intelligente : remontée de données vers un serveur local, validation terrain. | ESP8266 · LoRa · MQTT · 4G · PCB EasyEDA |
+| **<img src="https://api.iconify.design/bi/truck.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Pesage routier — Acquisition de données** | Chaîne complète de récupération et de traitement de données de pesage : cahier des charges, conception matérielle, serveur local. | C · TCP/IP · Ethernet · Raspberry Pi · PCB |
+| **<img src="https://api.iconify.design/bi/shield-check.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Tunnel de désinfection automatique** | Dispositif de désinfection des passagers (COVID-19) : architecture, capteurs, conception matérielle et maintenance sur site. | C/C++ · Arduino Nano · Fusion 360 |
+| **<img src="https://api.iconify.design/bi/easel.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Simulations pédagogiques Industrie 4.0** | Simulateurs interactifs pour la formation : supervision, séquencement et jumeaux numériques. | SCADA · GRAFCET · MQTT · Python |
 
 ---
 
 <details>
-<summary><b>💼 Expérience professionnelle</b></summary>
+<summary><b><img src="https://api.iconify.design/bi/briefcase.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> Expérience professionnelle</b></summary>
 
 <br>
 
@@ -156,7 +156,7 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 - Mission de consultance sur le programme Forprode, volet Intelligence Artificielle & Industrie 4.0.
 
 ### Consultant — Formateur Systèmes Embarqués, IoT & IA
-**IPIF | Abidjan** · *Novembre 2024 – Avril 2026*
+**IPIF | Abidjan** · *Novembre 2024 – Septembre 2025*
 - Conception et animation de modules en systèmes embarqués, IoT, IA et Industrie 4.0.
 - Encadrement d'étudiants sur des projets techniques (ESP32, MQTT, Machine Learning, automatisme).
 - Développement de simulations pédagogiques interactives (SCADA, GRAFCET, MQTT, jumeaux numériques).
@@ -185,7 +185,7 @@ Basé à Bingerville, Abidjan 🇨🇮 · Licence I4SEI en cours à l'ESATIC.
 </details>
 
 <details>
-<summary><b>🎓 Formation & certifications</b></summary>
+<summary><b><img src="https://api.iconify.design/bi/mortarboard.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> Formation &amp; certifications</b></summary>
 
 <br>
 
@@ -207,7 +207,7 @@ Français (natif) · Anglais (professionnel)
 </details>
 
 <details>
-<summary><b>📊 GitHub Stats</b></summary>
+<summary><b><img src="https://api.iconify.design/bi/bar-chart-line.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> GitHub Stats</b></summary>
 
 <br>
 
