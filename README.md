@@ -22,9 +22,9 @@ Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur Io
 
 ## <img src="https://api.iconify.design/bi/compass.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> À propos
 
-De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique, embarqué et intelligence artificielle.
+De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique embarqué , IoT et intelligence artificielle.
 Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital Academy), avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
-<img src="https://api.iconify.design/bi/mortarboard.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Licence I4SEI en cours à l'ESATIC.
+<img src="https://api.iconify.design/bi/mortarboard.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> 
 
 ---
 
