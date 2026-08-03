@@ -4,7 +4,7 @@
 
 # Franck KOHOU BI
 
-**CEO — Propilote**
+**Propilote**
 
 Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur IoT & IA
 
@@ -154,7 +154,7 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 
 <br>
 
-### CEO & Fondateur
+### Fondateur
 **Propilote | Abidjan** · *Présent*
 - Direction de la structure : conception de solutions embarquées, IoT et IA, de la spécification à la mise en production.
 - Formations et accompagnement technique auprès d'entreprises et d'institutions.
