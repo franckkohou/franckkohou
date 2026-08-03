@@ -195,6 +195,7 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 - **BTS — Systèmes Électroniques Industriels (SEI)** · Lycée Technique d'Abidjan Cocody · *2017 – 2018*
 
 ### Certifications
+- **Expert Gen AI** — Developers Institute, Août 2026
 - **Industry 4.0 & Advanced Manufacturing Technologies** — Festo Learning Experience (LX), 2025
 - **Industrie 4.0 – Employment4Youth** — ONUDI / Invest for Jobs, 2024–2025
 - **Parcours IA Générative & LLMs** — Python, ML, Deep Learning, RAG, Agents IA, MCP, 2024–2025
@@ -203,24 +204,6 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 
 ### Langues
 Français (natif) · Anglais (professionnel)
-
-</details>
-
-<details>
-<summary><b><img src="https://api.iconify.design/bi/bar-chart-line.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> GitHub Stats</b></summary>
-
-<br>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=franckkohou&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckkohou&layout=compact&theme=tokyonight&hide_border=true" alt="Top langages" />
-
-<br><br>
-
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=franckkohou&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
 
 </details>
 
