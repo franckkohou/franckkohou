@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/fe5daf9e-cd72-4cf3-a1cb-2348d6e32ef0" width="150" height="150" alt="Franck Kohou Bi" />
 
-# Franck KOHOU BI
+# Kohou Bi Irié Franck Aymar Romaric
 
 **Propilote**
 
