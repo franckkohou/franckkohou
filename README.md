@@ -140,12 +140,26 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 
 ## <img src="https://api.iconify.design/bi/rocket-takeoff.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> Projets
 
+### <img src="https://api.iconify.design/bi/cpu.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> IoT & Systèmes embarqués
+
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
 | **<img src="https://api.iconify.design/bi/trash.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Smart City — Gestion des ordures** | Système IoT de suivi des bacs à ordures pour une ville intelligente : remontée de données vers un serveur local, validation terrain. | ESP8266 · LoRa · MQTT · 4G · PCB EasyEDA |
 | **<img src="https://api.iconify.design/bi/truck.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Pesage routier — Acquisition de données** | Chaîne complète de récupération et de traitement de données de pesage : cahier des charges, conception matérielle, serveur local. | C · TCP/IP · Ethernet · Raspberry Pi · PCB |
 | **<img src="https://api.iconify.design/bi/shield-check.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Tunnel de désinfection automatique** | Dispositif de désinfection des passagers (COVID-19) : architecture, capteurs, conception matérielle et maintenance sur site. | C/C++ · Arduino Nano · Fusion 360 |
 | **<img src="https://api.iconify.design/bi/easel.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Simulations pédagogiques Industrie 4.0** | Simulateurs interactifs pour la formation : supervision, séquencement et jumeaux numériques. | SCADA · GRAFCET · MQTT · Python |
+
+### <img src="https://api.iconify.design/bi/robot.svg?color=%23F97316" width="20" height="20" align="top" alt="" /> Intelligence Artificielle & Data
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **<img src="https://api.iconify.design/bi/shop.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Assistant de découverte de restaurants explicable** | Recommandation hybride et génération d'explications à partir d'avis et de métadonnées commerces. | Embeddings · Ranking · RAG · Fairness |
+| **<img src="https://api.iconify.design/bi/file-earmark-richtext.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Assistant de question-réponse sur documents visuels** | QA multimodal sur documents scannés : localisation de la preuve et réponse contextualisée. | Transformers multimodaux · OCR · RAG · Calibration |
+| **<img src="https://api.iconify.design/bi/patch-check.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Fact-checker fondé sur les preuves** | Vérification d'affirmations avec retrieval de preuves et classification NLI calibrée. | RAG · NLI · Embeddings · Transformers |
+| **<img src="https://api.iconify.design/bi/chat-square-text.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Copilote d'intelligence sur les plaintes clients** | Classification et clustering de plaintes clients pour détection d'alertes et de tendances. | Feature Engineering · Classification · Clustering · RAG |
+| **<img src="https://api.iconify.design/bi/signpost-split.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Routeur d'intentions avec détection hors périmètre** | Classification d'intentions avec détection robuste des requêtes hors périmètre (OOS). | Classification · LoRA · Calibration · Analyse d'erreurs |
+| **<img src="https://api.iconify.design/bi/tree.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Agent d'intelligence agricole et de sécurité alimentaire** | Agent analytique sur données agricoles africaines : prévision, anomalies et mémos automatisés. | ETL · Séries temporelles · Anomaly Detection · Agents |
+| **<img src="https://api.iconify.design/bi/journal-text.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Éclaireur de littérature scientifique** | Recherche sémantique et synthèse d'articles scientifiques par clustering thématique. | Embeddings · Clustering · RAG · Summarization |
 
 ---
 
