@@ -12,7 +12,7 @@ Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur Io
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" align="top" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/kohou-bi-irie-franck-aymar-romaric-7b5a492a1/)
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff" /><img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="20" height="20" align="top" alt="GitHub" /></picture> [@franckkohou](https://github.com/franckkohou)
+<img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="20" height="20" align="top" alt="WhatsApp" /> [0788718477](https://wa.me/2250788718477)
 
 <img src="https://api.iconify.design/bi/geo-alt.svg?color=%23F97316" width="18" height="18" align="top" alt="" /> Bingerville, Abidjan, Côte d'Ivoire
 
