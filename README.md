@@ -23,7 +23,7 @@ Architecte Systèmes Embarqués · Data & ML Engineer · Consultant Formateur Io
 ## <img src="https://api.iconify.design/bi/compass.svg?color=%23F97316" width="22" height="22" align="top" alt="" /> À propos
 
 De l'idée à la mise en production : je conçois des solutions complètes mêlant électronique embarquée, IoT et intelligence artificielle.
-Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital Academy), avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
+Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, Orange Digital Academy, IPIF, Wakkeh, Sira labs), avec une expérience terrain sur des projets à fort impact — smart city, pesage routier, agriGreen.
 
 ---
 
