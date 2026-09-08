@@ -222,7 +222,7 @@ Consultant et formateur en Industrie 4.0, IoT et IA (GIZ, IPIF, Orange Digital A
 - **BTS — Systèmes Électroniques Industriels (SEI)** · Lycée Technique d'Abidjan Cocody · *2017 – 2018*
 
 ### Certifications
-- **Expert Gen AI** — Developers Institute, Août 2026
+- **Expert Gen AI** — Developers.Institute, Août 2026
 - **Industry 4.0 & Advanced Manufacturing Technologies** — Festo Learning Experience (LX), 2025
 - **Industrie 4.0 – Employment4Youth** — ONUDI / Invest for Jobs, 2024–2025
 - **Parcours IA Générative & LLMs** — Python, ML, Deep Learning, RAG, Agents IA, MCP, 2024–2025
